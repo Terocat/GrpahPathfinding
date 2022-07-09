@@ -1,0 +1,15 @@
+E:\c#-projects\console-apps\AStar Algorithm\bin\Debug\net6.0\AStar Algorithm.exe
+E:\c#-projects\console-apps\AStar Algorithm\bin\Debug\net6.0\AStar Algorithm.deps.json
+E:\c#-projects\console-apps\AStar Algorithm\bin\Debug\net6.0\AStar Algorithm.runtimeconfig.json
+E:\c#-projects\console-apps\AStar Algorithm\bin\Debug\net6.0\AStar Algorithm.dll
+E:\c#-projects\console-apps\AStar Algorithm\bin\Debug\net6.0\AStar Algorithm.pdb
+E:\c#-projects\console-apps\AStar Algorithm\obj\Debug\net6.0\AStar Algorithm.csproj.AssemblyReference.cache
+E:\c#-projects\console-apps\AStar Algorithm\obj\Debug\net6.0\AStar Algorithm.GeneratedMSBuildEditorConfig.editorconfig
+E:\c#-projects\console-apps\AStar Algorithm\obj\Debug\net6.0\AStar Algorithm.AssemblyInfoInputs.cache
+E:\c#-projects\console-apps\AStar Algorithm\obj\Debug\net6.0\AStar Algorithm.AssemblyInfo.cs
+E:\c#-projects\console-apps\AStar Algorithm\obj\Debug\net6.0\AStar Algorithm.csproj.CoreCompileInputs.cache
+E:\c#-projects\console-apps\AStar Algorithm\obj\Debug\net6.0\AStar Algorithm.dll
+E:\c#-projects\console-apps\AStar Algorithm\obj\Debug\net6.0\refint\AStar Algorithm.dll
+E:\c#-projects\console-apps\AStar Algorithm\obj\Debug\net6.0\AStar Algorithm.pdb
+E:\c#-projects\console-apps\AStar Algorithm\obj\Debug\net6.0\AStar Algorithm.genruntimeconfig.cache
+E:\c#-projects\console-apps\AStar Algorithm\obj\Debug\net6.0\ref\AStar Algorithm.dll
