@@ -13,7 +13,7 @@ Utils.LogGraph(graph);
 Console.WriteLine();
 
 PathFinder pathFinder = new PathFinder(graph);
-LinkedList<int> path = pathFinder.FindPath(1, 1);
+LinkedList<int> path = pathFinder.FindPath(0, 3);
 Utils.LogPath(path);
 
 // https://www.youtube.com/watch?v=-L-WgKMFuhE&ab_channel=SebastianLague
