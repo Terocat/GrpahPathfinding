@@ -39,7 +39,7 @@ namespace AStar_Algorithm
             
         }
 
-        public static LinkedList<Edge>[] AdjMatrixToLists(int[,] matrix, int[]? weights)
+        public static LinkedList<Edge>[] AdjMatrixToLists(int[,] matrix)
         {
             LinkedList<Edge>[] adjLists = new LinkedList<Edge>[matrix.GetLength(0)];
 
@@ -50,11 +50,12 @@ namespace AStar_Algorithm
                 {
                     if (matrix[i, j] == 0) continue;
 
-                    adjLists[i].AddLast(new Edge(i, j));
+                    adjLists[i].AddLast(new Edge(i, j, matrix[i, j]));
                 }
             }
 
             return adjLists;
         }
+        
     }
 }

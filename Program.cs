@@ -8,12 +8,13 @@ Utils.LogMatrix(matrix);
 
 Console.WriteLine();
 
-LinkedList<Edge>[] graph = GraphUtils.AdjMatrixToLists(matrix, null);
+
+LinkedList<Edge>[] graph = GraphUtils.AdjMatrixToLists(matrix);
 Utils.LogGraph(graph);
 Console.WriteLine();
 
 PathFinder pathFinder = new PathFinder(graph);
-LinkedList<int> path = pathFinder.FindPath(0, 3);
+LinkedList<int> path = pathFinder.FindPath(0, 4);
 Utils.LogPath(path);
 
 // https://www.youtube.com/watch?v=-L-WgKMFuhE&ab_channel=SebastianLague
